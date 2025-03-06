@@ -1,4 +1,4 @@
-public class exercicio1{
+public class Ex1Aula2{
     public static void main(String[] args) {
         String[] letras = {"a", "b", "c", "d", "e", "f", "g", "carro", "casa", "moto"};
         int posicao = buscar(letras, "casa");
