@@ -1,6 +1,4 @@
-package aulaTres;
-
-public class Exerc4 {
+public class Ex4Aula3 {
 	public static void main(String[] args) {
 		int [][] array = new int[10][10];
 		int valor = 0;
