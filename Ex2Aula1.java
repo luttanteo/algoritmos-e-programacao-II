@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class arrayTri {
+public class Ex2Aula1 {
 	public static void main(String[] args) {
 		int[][][] matriz = new int[5][5][5];
 		preencher(matriz);
