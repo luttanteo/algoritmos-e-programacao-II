@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Ex3Aula3 {
+public class PalavrasEX {
 
 	    public static void main(String[] args) {
 	        // Array de 50 palavras ordenadas alfabeticamente
