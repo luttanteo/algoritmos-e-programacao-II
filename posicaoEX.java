@@ -1,4 +1,4 @@
-public class Ex4Aula2 {
+public class posicaoEX {
 	public static void main(String[] args) {
 		int[][] matriz =	{{1, 2, 3}, 
 							{5, 6, 7}, 
