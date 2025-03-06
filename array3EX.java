@@ -1,4 +1,4 @@
-public class Ex1Aula2{
+public class array3EX {
     public static void main(String[] args) {
         String[] letras = {"a", "b", "c", "d", "e", "f", "g", "carro", "casa", "moto"};
         int posicao = buscar(letras, "casa");
