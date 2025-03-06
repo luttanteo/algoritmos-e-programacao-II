@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class exercicio3 {
+public class Ex3Aula2 {
     public static void main(String[] ars) {
         char[] array = new char[1000];
         preencher(array);
