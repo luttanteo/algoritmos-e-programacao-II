@@ -1,6 +1,6 @@
 package aulaTres;
 
-public class potenciaRecursiva {
+public class PotenciaRecursiva {
 	public static void main(String[] args) {
 		System.out.println(potencia(2, 3));
 	}
