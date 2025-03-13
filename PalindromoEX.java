@@ -1,4 +1,4 @@
-public class palindromoEX {
+public class PalindromoEX {
     public static void main(String[] args) {
         System.out.println(ehPalindromo("amor e roma"));
     }
