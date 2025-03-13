@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class somarEX {
+public class SomarEX {
     /* Crie um método recursivo que receba como parâmetro um número e retorne a soma
     de todos os números naturais de 1 até este número */
     public static void main(String[] args) {
