@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class array4EX {
+public class Array4EX {
 	public static void main(String[] args) {
 		int[][][][] matriz = new int[5][5][5][5];
 		preencher(matriz);
