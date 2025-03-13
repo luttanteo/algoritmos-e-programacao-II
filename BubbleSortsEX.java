@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// Esse arquivo resulta em um IndexOutOfBounds!!!!
 public class BubbleSortsEX {
     public static void main(String[] args) {
         String[][] nomes = {{"Ana", "André", "João", "Carlos"},
